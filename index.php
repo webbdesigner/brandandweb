@@ -154,17 +154,17 @@
 <!--insert modals-->
 
 <div class="masonry gallery">
-   <div class="item"><img class="gallery-img" src="/img/portfolio1.jpg"></div>
-   <div class="item"><img class="gallery-img" src="/img/portfolio2.jpg"></div>
-   <div class="item"><img class="gallery-img" src="/img/portfolio3.jpg"></div>
-   <div class="item"><img class="gallery-img" src="/img/portfolio4.jpg"></div>
-   <div class="item"><img class="gallery-img" src="/img/portfolio6.jpg"></div>
-   <div class="item"><img class="gallery-img" src="/img/portfolio13.jpg"></div>
-   <div class="item"><img class="gallery-img" src="/img/portfolio9.jpg"></div>
-   <div class="item"><img class="gallery-img" src="/img/portfolio10.jpg"></div>
-   <div class="item"><img class="gallery-img" src="/img/portfolio11.jpg"></div>
-   <div class="item"><img class="gallery-img" src="/img/portfolio12.jpg"></div>
-   <div class="item"><img class="gallery-img" src="/img/portfolio14.jpg"></div>
+   <div class="item"><img class="gallery-img" src="img/portfolio1.jpg"></div>
+   <div class="item"><img class="gallery-img" src="img/portfolio2.jpg"></div>
+   <div class="item"><img class="gallery-img" src="img/portfolio3.jpg"></div>
+   <div class="item"><img class="gallery-img" src="img/portfolio4.jpg"></div>
+   <div class="item"><img class="gallery-img" src="img/portfolio6.jpg"></div>
+   <div class="item"><img class="gallery-img" src="img/portfolio13.jpg"></div>
+   <div class="item"><img class="gallery-img" src="img/portfolio9.jpg"></div>
+   <div class="item"><img class="gallery-img" src="img/portfolio10.jpg"></div>
+   <div class="item"><img class="gallery-img" src="img/portfolio11.jpg"></div>
+   <div class="item"><img class="gallery-img" src="img/portfolio12.jpg"></div>
+   <div class="item"><img class="gallery-img" src="img/portfolio14.jpg"></div>
 </div>
 <div id="myModal" class="modal fade" role="dialog">
   <div class="modal-dialog">
@@ -276,9 +276,12 @@
                         <li>
                             <a target="_blank" href="https://www.codepen.io/webbdesigner3"><i class="fa fa-codepen fa-fw fa-3x"></i></a>
                         </li>
+                        <li>
+                            <a target="_blank" href="https://github.com/webbdesigner"><i class="fa fa-github fa-fw fa-3x"></i></a>
+                        </li>
                     </ul>
                     <hr class="small">
-                    <p class="text-muted">Copyright &copy; 2018</p>
+                    
               </div>
             </div>
         </div>
